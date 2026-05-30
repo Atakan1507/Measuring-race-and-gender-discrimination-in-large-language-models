@@ -1,6 +1,3 @@
-# Measuring-race-and-gender-discrimination-in-large-language-models
-My thesis about Measuring race and gender discrimination in large language models, mainly we are requesting from Grok, ChatGPT, Gemini and Claude and looking bias and comparing these bias methods
-
 # Measuring Race and Gender Bias in Large Language Models
 
 This repository contains the code used in my master’s thesis on **detecting race and gender bias in large language models (LLMs)**.
